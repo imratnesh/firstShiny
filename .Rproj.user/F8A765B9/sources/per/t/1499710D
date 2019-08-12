@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553231325396.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2068953657",
+    "id" : "1499710D",
+    "lastKnownWriteTime" : 1553253323,
+    "last_content_update" : 1553253323932,
+    "path" : "~/firstshiny/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "3,16",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

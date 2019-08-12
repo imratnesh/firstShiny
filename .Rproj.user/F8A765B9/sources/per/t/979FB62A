@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553602913200.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3251652005",
+    "id" : "979FB62A",
+    "lastKnownWriteTime" : 1554101880,
+    "last_content_update" : 1554101880,
+    "path" : "~/demoshiny/app.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "35,35",
+        "scrollLine" : "29"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
